@@ -1,0 +1,20 @@
+Session:,"2024 SPRING SEMESTER"
+Course:,"CO321-Database management system lab"
+Faculty:,Pallabi
+total,3
+start,2024-11-13
+end,2024-11-15
+slno,roll_no,name,2024-11-13,2024-11-14,2024-11-15,attended,percent
+1,CSB21001,"Alexy Johnson",P,P,P,3,100
+2,CSB21006,"Olivia Jones",P,P,P,3,100
+3,CSB21008,"Emma Miller",P,P,A,2,66.67
+4,CSB21009,"David Wilson",P,P,P,3,100
+5,CSB21010,"Sarah Taylor",P,P,A,2,66.67
+6,CSB21011,"Michael Martinez",P,A,A,1,33.33
+7,CSB21012,"Ava Anderson",P,P,P,3,100
+8,CSM21001,"Liam Garcia",P,A,A,1,33.33
+9,CSM21003,"Ethan Martinez",P,A,A,1,33.33
+10,CSM21004,"Olivia Hernandez",A,A,A,0,0
+11,CSM21005,"Mason Lopez",A,A,A,0,0
+12,CSM21007,"Alexander Gonzalez",A,A,A,0,0
+13,CSM21008,"Ava Johnson",A,A,A,0,0
